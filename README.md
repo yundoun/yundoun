@@ -1,5 +1,6 @@
-👋 Hi there ~! I'm yun
+👋 Hi there ~! Nice to see you
 
+I'm Do-un Yun
 Computer Enginnering at Dong-eui University
 
-Things I code with
+
