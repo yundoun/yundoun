@@ -1,4 +1,4 @@
-👋 Hi there ~! Nice to see you
+👋 Nice to see you
 
  I'm Do-un Yun
 
