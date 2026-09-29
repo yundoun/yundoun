@@ -10,11 +10,11 @@
 
 ### About Me
 
-<img src="assets/ajd.png" height="28">
+<img src="assets/ajd.png" height="36">
 
-**아정당**(아정네트웍스)<br>
-AI 전략 기획·실행 · CXO 직속 운영개선팀<br>
-2026.07 – 현재
+#### 아정당 (아정네트웍스)
+**AI 전략 기획·실행** · CXO 직속 운영개선팀<br>
+<sub>2026.07 – 현재</sub>
 
 CS 고객 여정과 인센티브 정책을 데이터로 검증하고, 경영진과 운영자가 정책 선택지와 계산 근거를 확인할 수 있는 시뮬레이션·운영 도구를 기획하고 구현합니다.
 
@@ -23,11 +23,11 @@ CS 고객 여정과 인센티브 정책을 데이터로 검증하고, 경영진�
 - CRM 응답에 들어 있는 고객 실명·연락처·주소·계좌가 확장 밖으로 나가지 않도록, 카드 계산에 필요한 값만 화이트리스트로 넘기고 이를 테스트로 고정
 - 카드 표시 방식을 확장 재배포 없이 바꿀 수 있도록, 어드민에 카드 설정과 미리보기를 나란히 두는 위젯 화면을 구현
 
-<img src="assets/pineone.png" height="28">&nbsp;&nbsp;<img src="assets/coolstay.png" height="28">
+<img src="assets/pineone.png" height="32">&nbsp;&nbsp;<img src="assets/coolstay.png" height="32">
 
-**파인원커뮤니케이션즈**<br>
-Frontend Developer · 꿀스테이/웹개발팀<br>
-2024.07 – 2026.07
+#### 파인원커뮤니케이션즈
+**Frontend Developer** · 꿀스테이/웹개발팀<br>
+<sub>2024.07 – 2026.07</sub>
 
 숙박 플랫폼 **꿀스테이**의 CMS·PMS·파트너 앱·결제/인증 웹뷰 등 웹서비스 전 영역을 개발했습니다. 본업과 병행하여, 팀 내 비효율을 발견하고 AI와 자동화로 해결하는 도구를 자발적으로 만들었습니다.
 
