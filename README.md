@@ -10,7 +10,7 @@
 
 ### About Me
 
-<img src="assets/ajd.png" height="36">
+<img src="assets/ajd.png" >
 
 #### 아정당 (아정네트웍스)
 **AI 전략 기획·실행** · CXO 직속 운영개선팀<br>
@@ -24,6 +24,8 @@ CS 고객 여정과 인센티브 정책을 데이터로 검증하고, 경영진�
 - 카드 표시 방식을 확장 재배포 없이 바꿀 수 있도록, 어드민에 카드 설정과 미리보기를 나란히 두는 위젯 화면을 구현
 
 <img src="assets/pineone.png" height="32">&nbsp;&nbsp;<img src="assets/coolstay.png" height="32">
+
+---
 
 #### 파인원커뮤니케이션즈
 **Frontend Developer** · 꿀스테이/웹개발팀<br>
