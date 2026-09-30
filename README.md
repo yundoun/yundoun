@@ -10,7 +10,7 @@
 
 ### About Me
 
-<img src="assets/ajd.png" >
+<img src="assets/ajd.png" height="64" >
 
 #### 아정당 (아정네트웍스)
 **AI 전략 기획·실행** · CXO 직속 운영개선팀<br>
